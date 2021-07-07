@@ -1,0 +1,16 @@
+D:\repos\Private\CallHTTPFromConsole\WebAPIClient\bin\Debug\net5.0\WebAPIClient.exe
+D:\repos\Private\CallHTTPFromConsole\WebAPIClient\bin\Debug\net5.0\WebAPIClient.deps.json
+D:\repos\Private\CallHTTPFromConsole\WebAPIClient\bin\Debug\net5.0\WebAPIClient.runtimeconfig.json
+D:\repos\Private\CallHTTPFromConsole\WebAPIClient\bin\Debug\net5.0\WebAPIClient.runtimeconfig.dev.json
+D:\repos\Private\CallHTTPFromConsole\WebAPIClient\bin\Debug\net5.0\WebAPIClient.dll
+D:\repos\Private\CallHTTPFromConsole\WebAPIClient\bin\Debug\net5.0\ref\WebAPIClient.dll
+D:\repos\Private\CallHTTPFromConsole\WebAPIClient\bin\Debug\net5.0\WebAPIClient.pdb
+D:\repos\Private\CallHTTPFromConsole\WebAPIClient\obj\Debug\net5.0\WebAPIClient.csproj.AssemblyReference.cache
+D:\repos\Private\CallHTTPFromConsole\WebAPIClient\obj\Debug\net5.0\WebAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Private\CallHTTPFromConsole\WebAPIClient\obj\Debug\net5.0\WebAPIClient.AssemblyInfoInputs.cache
+D:\repos\Private\CallHTTPFromConsole\WebAPIClient\obj\Debug\net5.0\WebAPIClient.AssemblyInfo.cs
+D:\repos\Private\CallHTTPFromConsole\WebAPIClient\obj\Debug\net5.0\WebAPIClient.csproj.CoreCompileInputs.cache
+D:\repos\Private\CallHTTPFromConsole\WebAPIClient\obj\Debug\net5.0\WebAPIClient.dll
+D:\repos\Private\CallHTTPFromConsole\WebAPIClient\obj\Debug\net5.0\ref\WebAPIClient.dll
+D:\repos\Private\CallHTTPFromConsole\WebAPIClient\obj\Debug\net5.0\WebAPIClient.pdb
+D:\repos\Private\CallHTTPFromConsole\WebAPIClient\obj\Debug\net5.0\WebAPIClient.genruntimeconfig.cache
